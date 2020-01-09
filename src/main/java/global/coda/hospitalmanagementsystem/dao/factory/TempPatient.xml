@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE patient PUBLIC "//UNKNOWN/" "unknown.dtd">
+<?xml-stylesheet type="text/xsl" href=""?>
+<patient>
+<patient id="101">
+	<patientName>Karthick.E</patientName>
+	<patientDiagnosis>Cold</patientDiagnosis>
+	<patientAge>21</patientAge>
+	<address>Saraswathy nagar Thirumullaivoyal Chennai-62</address>
+</patientId>
+<patient id="102">
+	<patientName>Surya.s</patientName>
+	<patientDiagnosis>Fever</patientDiagnosis>
+	<patientAge>22</patientAge>
+	<address>Thendral nagar Ambattur Chennai-62</address>
+</patientId>
+<patient id="103">
+	<patientName>Vijay</patientName>
+	<patientDiagnosis>Thyroid</patientDiagnosis>
+	<patientAge>21</patientAge>
+	<address>Shanmuga nagar Surapet Chennai</address>
+</patientId>
+
+</patient>
